@@ -1,6 +1,6 @@
-# Name of the Project portfolio
+# Name of the Project portfolio nathan portfolio
 *****
-### Author : Name Date nathan march 10 2023
+### Author : Name Date nathan march 14 2023
 ****
 ## Project Description
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
@@ -57,7 +57,7 @@ Or you can access the web application directly via this [LINK.](link.com/)
 5. JavaScript
 *****
 ## Contact Information
-* Email : example@gmail.com
+* Email :nathan.mageka@student.moringaschool.com example@gmail.com
 *****
 ## [License](LICENSE)
 MIT License
